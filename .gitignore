@@ -115,7 +115,7 @@ hs_err_pid*
 
 # User-specific stuff:
 .idea/
-
+src/main/resources/static/
 *.iml
 # Sensitive or high-churn files:
 .idea/**/dataSources/
